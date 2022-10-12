@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rggzs4KnRXXNxls/pHhbSUFBCIkHi1WXJyLR00SHhIBP2qTupELypUAnli8eYXMzJaSeI6S5QvrJerDLTY9zg==",
+  "success": false,
+  "projectFilePath": "D:\\Practice\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohits49\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\rohits49\\.nuget\\packages\\grpc.core.api\\2.48.0\\grpc.core.api.2.48.0.nupkg.sha512",
+    "C:\\Users\\rohits49\\.nuget\\packages\\grpc.net.common\\2.48.0\\grpc.net.common.2.48.0.nupkg.sha512",
+    "C:\\Users\\rohits49\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\rohits49\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/edenred-apac-product/TXC/_packaging/TXC/nuget/v3/index.json.",
+      "libraryId": "Grpc.Net.Client"
+    }
+  ]
+}
